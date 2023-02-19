@@ -1,0 +1,682 @@
+[
+   {
+      "barid":100,
+      "name":"Blind Pig",
+      "time":"8:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.96216,
+      "lon":-75.141379,
+      "image":"http://blindpigphilly.com/The_Blind_Pig_Philadelphia-_Northern_Liberties_Restaurant_and_Bar_-_Home_files/Pig%20logo.png",
+      "url":"https://www.blindpigphilly.com/"
+   },
+   {
+      "barid":101,
+      "name":"London Grill",
+      "time":"8:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.96751,
+      "lon":-75.175483,
+      "image":"http://www.londongrill.com/final/wp-content/uploads/2016/04/London-grill-final.png",
+      "url":"http://www.londongrill.com/"
+   },
+   {
+      "barid":102,
+      "name":"Finn Mccools Ale House",
+      "time":"8:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.949741,
+      "lon":-75.16049,
+      "image":"https://media-cdn.tripadvisor.com/media/photo-s/02/d8/62/f4/finn-mccool-s-ale-house.jpg",
+      "url":"http://www.finnmccoolsphilly.com/"
+   },
+   {
+      "barid":103,
+      "name":"New Wave Cafe",
+      "time":"9:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.938067,
+      "lon":-75.14846,
+      "image":"https://www.newwavecafe.com/themes/new-wave/images/logo.png",
+      "url":"https://www.newwavecafe.com/"
+   },
+   {
+      "barid":104,
+      "name":"Strangelove's",
+      "time":"9:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.948099,
+      "lon":-75.159307,
+      "image":"http://cdn.phillymag.com/wp-content/uploads/2013/04/StrangelovesLOGObirdman.gif",
+      "url":"http://www.strangelovesbeerbar.com/"
+   },
+   {
+      "barid":105,
+      "name":"The Sidecar Bar & Grille",
+      "time":"9:30 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.94179,
+      "lon":-75.179504,
+      "image":"https://pbs.twimg.com/profile_images/451378219/logo_noBKG_400x400.jpg",
+      "url":"http://www.thesidecarbar.com/"
+   },
+   {
+      "barid":106,
+      "name":"New Deck Tavern",
+      "time":"10:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.953555,
+      "lon":-75.192615,
+      "image":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.newdecktavern.com%2Fimages%2Flogo-new.png&imgrefurl=http%3A%2F%2F",
+      "url":"http://newdecktavern.com/"
+   },
+   {
+      "barid":107,
+      "name":"Stogie Joe's Passyunk Tavern",
+      "time":"7:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.927533,
+      "lon":-75.165981,
+      "image":"https://pbs.twimg.com/profile_images/1845972567/stogie_s_logo.jpg",
+      "url":"http://www.stogiejoestavern.net/"
+   },
+   {
+      "barid":108,
+      "name":"The Cambridge",
+      "time":"9:00 pm",
+      "dayOfWeek":"Monday",
+      "lat":39.94382,
+      "lon":-75.16759,
+      "image":"http://www.centercityteam.com/wp-content/uploads/2012/08/The-Cambridge-Philadelphia.jpg",
+      "url":"http://www.cambridgeonsouth.com/"
+   },
+   {
+      "barid":109,
+      "name":"Green Room",
+      "time":"9:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.9648,
+      "lon":-75.170598,
+      "image":"https://pbs.twimg.com/profile_images/585106796857040896/mtXmNdr-.jpg",
+      "url":"http://greenroomphiladelphia.com/"
+   },
+   {
+      "barid":110,
+      "name":"Tavern on Broad",
+      "time":"7:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.949183,
+      "lon":-75.164953,
+      "image":"http://www.pubcrawls.com/images/venues/tavern-on-broad-logo.jpg",
+      "url":"http://www.tavernonbroad.com/"
+   },
+   {
+      "barid":111,
+      "name":"El Camino Real Restaurant",
+      "time":"8:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.967279,
+      "lon":-75.140142,
+      "image":"http://www.uwishunu.com/wp-content/uploads/2009/02/elcamino1.jpg",
+      "url":"http://www.elcaminophilly.com/"
+   },
+   {
+      "barid":112,
+      "name":"O'neal's Pub",
+      "time":"8:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.941035,
+      "lon":-75.147399,
+      "image":"http://philly.cities2night.com/public/place_images/place_11899.jpg",
+      "url":"http://www.onealspub.com/"
+   },
+   {
+      "barid":113,
+      "name":"Fergie's Pub",
+      "time":"8:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.949638,
+      "lon":-75.161149,
+      "image":"http://whiskeygoldmine.com/wp-content/uploads/2011/03/fergies-irish-pub.jpg",
+      "url":"http://www.fergies.com/"
+   },
+   {
+      "barid":115,
+      "name":"Smiths Restaurant & Bar",
+      "time":"7:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.952255,
+      "lon":-75.17156,
+      "image":"http://www.smiths-restaurant.com/themes/smiths/images/logo.png",
+      "url":"http://www.smiths-restaurant.com/"
+   },
+   {
+      "barid":117,
+      "name":"Rembrandt's Restaurant & Bar",
+      "time":"9:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.968541,
+      "lon":-75.174913,
+      "image":"https://www.vinology.com/philly/photos/2640/file/306/Rembrandt's%20Restaurant%20and....jpg",
+      "url":"http://www.rembrandts.com/home"
+   },
+   {
+      "barid":118,
+      "name":"Slainte Pub & Grill",
+      "time":"9:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.954712,
+      "lon":-75.18387,
+      "image":"http://planetconnections.org/wp-content/uploads/2011/05/Slainte.jpg",
+      "url":"http://slaintephilly.com/"
+   },
+   {
+      "barid":120,
+      "name":"City Tap House",
+      "time":"10:15 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.954204,
+      "lon":-75.201789,
+      "image":"http://philly.cities2night.com/public/place_images/place_12305.jpg",
+      "url":"http://www.citytap.com/"
+   },
+   {
+      "barid":121,
+      "name":"Bar-Ly Chinatown",
+      "time":"7:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.954007,
+      "lon":-75.157461,
+      "image":"http://cdn.phillymag.com/wp-content/uploads/2013/08/1095116_1407902562757458_1565792804_n.png",
+      "url":"http://www.bar-ly.com/"
+   },
+   {
+      "barid":123,
+      "name":"Nick's Roast Beef Northeast",
+      "time":"9:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":40.048645,
+      "lon":-75.062082,
+      "image":"http://www.nicksnortheast.com/themes/nicks-beef/images/logo.png",
+      "url":"http://nicksroastbeef.com/"
+   },
+   {
+      "barid":124,
+      "name":"Moonshine Philly",
+      "time":"8:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.925015,
+      "lon":-75.151605,
+      "image":"https://pbs.twimg.com/profile_images/469828738260025346/UTUAI-CV_400x400.png",
+      "url":"http://www.moonshinephilly.com/"
+   },
+   {
+      "barid":125,
+      "name":"Penny Garden Tavern",
+      "time":"9:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":40.056905,
+      "lon":-75.015287,
+      "image":"https://s3-media1.fl.yelpcdn.com/bphoto/nkrvE6Wl1ElJ0z4SuxQwiw/o.jpg",
+      "url":"https://www.facebook.com/PennyGardensTavern/"
+   },
+   {
+      "barid":126,
+      "name":"2nd Story Brewing",
+      "time":"8:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.948446,
+      "lon":-75.143567,
+      "image":"https://pbs.twimg.com/profile_images/463696886772158466/4s9rwUqI.jpeg",
+      "url":"http://www.2ndstorybrewing.com/"
+   },
+   {
+      "barid":127,
+      "name":"Devil's Pocket",
+      "time":"9:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.9439317,
+      "lon":-75.1859101,
+      "image":"https://s3-media2.fl.yelpcdn.com/bphoto/OOj5x-wffLFYGDHdnpYnCw/ls.jpg",
+      "url":"http://devilspocketphilly.com/"
+   },
+   {
+      "barid":128,
+      "name":"Locust Rendezvous",
+      "time":"6:15 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.948668,
+      "lon":-75.165846,
+      "image":"http://images4.citysearch.net/assets/imgdb2/reinvent/profile/2012/11/15/1/pCIVBWVB.jpg",
+      "url":"http://www.locustrendezvous.com/"
+   },
+   {
+      "barid":129,
+      "name":"12 Steps Down",
+      "time":"7:30 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.939057,
+      "lon":-75.157539,
+      "image":"https://pbs.twimg.com/profile_images/76781984/12_Steps_Logo_400x400.jpg",
+      "url":"http://www.12stepsdown.com/"
+   },
+   {
+      "barid":130,
+      "name":"Fado Irish Pub",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.948169,
+      "lon":-75.166552,
+      "image":"https://s-media-cache-ak0.pinimg.com/736x/e7/48/4b/e7484b6e9dc85d7db0df9c0350c280ba.jpg",
+      "url":"http://www.fadoirishpub.com/"
+   },
+   {
+      "barid":131,
+      "name":"Cavanaugh's Headhouse Square",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.942268,
+      "lon":-75.145077,
+      "image":"http://www.cavsheadhouse.com/wp-content/uploads/2015/05/NewCHHLogo.png",
+      "url":"http://www.cavsheadhouse.com/"
+   },
+   {
+      "barid":132,
+      "name":"Catahoula",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.937875,
+      "lon":-75.144505,
+      "image":"http://cdn.phillymag.com/wp-content/uploads/2013/12/catahoula-logo.jpg",
+      "url":"http://catahoulaphilly.com/"
+   },
+   {
+      "barid":133,
+      "name":"Grey Lodge Pub",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.027473,
+      "lon":-75.061239,
+      "image":"http://www.greylodge.com/glplogo.gif",
+      "url":"http://www.greylodge.com/"
+   },
+   {
+      "barid":135,
+      "name":"National Mechanics Philadelphia Bar and Restaurant",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.949548,
+      "lon":-75.14594,
+      "image":"http://nationalmechanics.com/resources/site1/images/nm_print_logo.gif",
+      "url":"http://www.nationalmechanics.com/"
+   },
+   {
+      "barid":136,
+      "name":"West Tavern & Restaurant",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.959686,
+      "lon":-75.163604,
+      "image":"http://www.westtavern.com/images/WestTavern%20Logo%20for%20website.jpg",
+      "url":"http://www.westtavern.com/"
+   },
+   {
+      "barid":137,
+      "name":"Mac's Tavern",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.949852,
+      "lon":-75.144743,
+      "image":"http://macstavern.com/wp-content/uploads/macstavern.png",
+      "url":"http://macstavern.com/"
+   },
+   {
+      "barid":138,
+      "name":"The Victoria Freehouse",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.949235,
+      "lon":-75.142289,
+      "image":"http://cdn.phillymag.com/wp-content/uploads/2015/07/victoria-freehouse-interior-940.jpg",
+      "url":"http://www.thevictoriafreehouse.com/"
+   },
+   {
+      "barid":139,
+      "name":"ERA",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.9731622,
+      "lon":-75.1819868,
+      "image":"http://media.phillyvoice.com/media/images/Era-Bar-Front-of-Building.focus-none.width-800.jpg",
+      "url":"http://www.theerabar.com/"
+   },
+   {
+      "barid":140,
+      "name":"The Black Sheep Pub & Restaurant",
+      "time":"8:15 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.948442,
+      "lon":-75.169251,
+      "image":"http://photos.wikimapia.org/p/00/03/08/21/60_full.jpg",
+      "url":"https://www.facebook.com/BlackSheepPubPA/"
+   },
+   {
+      "barid":141,
+      "name":"Kellianns Bar & Grill",
+      "time":"8:30 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.963082,
+      "lon":-75.164491,
+      "image":"http://2.bp.blogspot.com/-m8uvBr8s59Y/Tul7AG0fqKI/AAAAAAAAAyw/WVELQP7zmgw/s1600/kell.jpg",
+      "url":"https://www.facebook.com/Kellianns-Bar-and-Grill-281261789931/"
+   },
+   {
+      "barid":142,
+      "name":"Urban Saloon",
+      "time":"9:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.967109,
+      "lon":-75.172943,
+      "image":"https://cdn.beeradvocate.com/im/places/24050.jpg",
+      "url":"http://www.urbansaloon.com/"
+   },
+   {
+      "barid":143,
+      "name":"Earth Bread + Brewery",
+      "time":"9:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.059186,
+      "lon":-75.190408,
+      "image":"http://beerscenemag.com/wp-content/uploads/2014/01/Earth-Bread-Brewery.jpg",
+      "url":"http://earthbreadbrewery.com/"
+   },
+   {
+      "barid":144,
+      "name":"The Bayou Bar and Grill",
+      "time":"10:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.024557,
+      "lon":-75.221083,
+      "image":"http://www.upcomingevents.com/images/organizers/203/lfrrftl2ee.jpg",
+      "url":"http://www.bayoubar.com/"
+   },
+   {
+      "barid":145,
+      "name":"New Deck Tavern",
+      "time":"10:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.953555,
+      "lon":-75.192615,
+      "image":"http://newdecktavern.com/",
+      "url":"http://newdecktavern.com/"
+   },
+   {
+      "barid":146,
+      "name":"Maggie's Waterfront Cafe",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.043615,
+      "lon":-74.989664,
+      "image":"https://www.maggieswaterfront.com/themes/maggies/images/logo.png",
+      "url":"https://www.maggieswaterfront.com/"
+   },
+   {
+      "barid":147,
+      "name":"Sweeney's Station Saloon",
+      "time":"9:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.131972,
+      "lon":-75.010091,
+      "image":"https://s3-media2.fl.yelpcdn.com/bphoto/Ce-K3CkvtY17QJVSww-xEA/l.jpg",
+      "url":"http://sweeneyssaloon.net/"
+   },
+   {
+      "barid":148,
+      "name":"The Ugly Moose",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":40.025273,
+      "lon":-75.211529,
+      "image":"http://www.theuglymoose.com/home/wp-content/uploads/2012/11/Discussion-Settings-%E2%80%B9-Barstool-Sports-%E2%80%94-Wor",
+      "url":"http://www.theuglymoose.com/home/"
+   },
+   {
+      "barid":149,
+      "name":"Boxers PHL",
+      "time":"8:00 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.949152,
+      "lon":-75.163395,
+      "image":"http://boxersphl.com/wp-content/uploads/2015/10/BoxersPHL-Logo-e1445483408124.png",
+      "url":"http://boxersphl.com/"
+   },
+   {
+      "barid":151,
+      "name":"Memphis Taproom Beer Garden",
+      "time":"6:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.9803689,
+      "lon":-75.1230145,
+      "image":"https://pbs.twimg.com/profile_images/378800000183045968/3e630e140f2208899f7e15897de8f47c_400x400.jpeg",
+      "url":"http://memphistaproom.com/index.htm"
+   },
+   {
+      "barid":152,
+      "name":"The Industry",
+      "time":"6:30 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.930422,
+      "lon":-75.149616,
+      "image":"https://pbs.twimg.com/profile_images/2536518699/4n78i3r787cliqbkvl4c.jpeg",
+      "url":"http://www.theindustrybar.com/"
+   },
+   {
+      "barid":153,
+      "name":"The Abbaye",
+      "time":"10:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.9622192,
+      "lon":-75.1429417,
+      "image":"https://pbs.twimg.com/profile_images/1036225495/Abbaye_Logo.png",
+      "url":"http://theabbaye.net/"
+   },
+   {
+      "barid":154,
+      "name":"Fergie's Pub",
+      "time":"9:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.949638,
+      "lon":-75.161149,
+      "image":"http://www.uwishunu.com/wp-content/uploads/2009/03/fergies_pub_philly.jpg",
+      "url":"http://www.fergies.com/"
+   },
+   {
+      "barid":155,
+      "name":"The Bards Irish Bar",
+      "time":"9:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.950691,
+      "lon":-75.174299,
+      "image":"http://67.media.tumblr.com/tumblr_lxys86ElbX1qeeum2o1_500.jpg",
+      "url":"http://www.bardsirishbar.com/"
+   },
+   {
+      "barid":156,
+      "name":"Adobe Cafe",
+      "time":"9:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.926032,
+      "lon":-75.167774,
+      "image":"http://philly.thedrinknation.com/images/bars/22767407.jpg",
+      "url":"http://www.adobecafephilly.com/"
+   },
+   {
+      "barid":157,
+      "name":"The Saint",
+      "time":"9:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.9687029,
+      "lon":-75.1364723,
+      "image":"http://philly.thedrinknation.com/images/bars/bar_picture_the_saint_philly.jpg",
+      "url":"https://www.facebook.com/saintlazarusbar/"
+   },
+   {
+      "barid":158,
+      "name":"Luke's Bar",
+      "time":"6:45 pm",
+      "dayOfWeek":"Friday",
+      "lat":39.978835,
+      "lon":-75.123801,
+      "image":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjXq_KglsXRAhUCOyYKHT5lDZwQjBwIBA&url=http%",
+      "url":"https://www.facebook.com/Loveeeys/"
+   },
+   {
+      "barid":159,
+      "name":"Local 44",
+      "time":"9:00 pm",
+      "dayOfWeek":"Sunday",
+      "lat":39.952838,
+      "lon":-75.210363,
+      "image":"https://pbs.twimg.com/profile_images/378800000190954569/44b6e1ae688b19c2933ec984301bbfdc.jpeg",
+      "url":"http://www.local44beerbar.com/"
+   },
+   {
+      "barid":160,
+      "name":"Bar-Ly Chinatown",
+      "time":"6:30 pm",
+      "dayOfWeek":"Sunday",
+      "lat":39.954007,
+      "lon":-75.157461,
+      "image":"http://cdn.phillymag.com/wp-content/uploads/2013/08/1095116_1407902562757458_1565792804_n.png",
+      "url":"http://www.bar-ly.com/"
+   },
+   {
+      "barid":161,
+      "name":"Hop Angel Brauhaus",
+      "time":"8:30 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":40.0770311,
+      "lon":-75.0876273,
+      "image":"http://hopangel.com/logoback.jpg",
+      "url":"http://hopangel.com/"
+   },
+   {
+      "barid":162,
+      "name":"Valanni",
+      "time":"10:00 pm",
+      "dayOfWeek":"Tuesday",
+      "lat":39.94685,
+      "lon":-75.1644057,
+      "image":"http://valanni.com/wp-content/uploads/2016/08/valanninewlogo_3.png",
+      "url":"http://valanni.com/"
+   },
+   {
+      "barid":163,
+      "name":"Irish Times",
+      "time":"8:30 pm",
+      "dayOfWeek":"Wednesday",
+      "lat":39.9404063,
+      "lon":-75.1479025,
+      "image":"http://philly.thedrinknation.com/images/bars/IrishTimes-1.jpg",
+      "url":"https://www.facebook.com/irishtimesphilly/"
+   },
+   {
+      "barid":164,
+      "name":"O'Mares Irish Pub",
+      "time":"8:30 pm",
+      "dayOfWeek":"Thursday",
+      "lat":40.1090623,
+      "lon":-75.0276972,
+      "image":"http://omaresirishpub.com/wp-content/uploads/2015/03/omares_logo_dark.png",
+      "url":"http://www.omaresirishpub.com"
+   },
+   {
+      "barid":165,
+      "name":"SouthHouse",
+      "time":"8:00 pm",
+      "dayOfWeek":"Thursday",
+      "lat":39.91804,
+      "lon":-75.1708957,
+      "image":"https://storage.googleapis.com/zgt-user/philly-southhouse-logo.jpg",
+      "url":"http://southhousephilly.com/"
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   },
+   {
+      "barid":0,
+      "name":"",
+      "time":"",
+      "dayOfWeek":"",
+      "lat":0.0,
+      "lon":0.0,
+      "image":"",
+      "url":""
+   }
+]
